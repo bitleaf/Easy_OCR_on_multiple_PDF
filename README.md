@@ -10,9 +10,7 @@ It is hard to find OCR implementations that meet these three requirements:
   - ability to process multiple files
   - open source
 
-After some research, I found [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF), which is open source, but not that easy to use for processing more than one PDF file.
-
-Therefore, I extended OCRmyPDF to easily apply OCR on multiple PDF files. Thanks to Docker, this can be achieved with just one single command (you can also use it without Docker).
+After some research, I found [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF), which is open source, but not that easy to use for processing more than one PDF file. Therefore, I extended OCRmyPDF to easily apply OCR on multiple PDF files with just one single command (thanks to [Docker](https://www.docker.com/), but you can also use it without Docker).
 
 
 Prepare
