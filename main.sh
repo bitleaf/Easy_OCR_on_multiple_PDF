@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: www.Mathias-Renner.de
+# Author: www.Mathias-Renner.com
 # How to use: See README.md
 
 set -e
